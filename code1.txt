@@ -1,0 +1,3 @@
+Hello this is a test file for git
+bash: line 1: t: command not found
+
